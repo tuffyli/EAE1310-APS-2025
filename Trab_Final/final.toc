@@ -1,0 +1,13 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {1}Introdução}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Contexto legal}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Dados}{3}{section.2}%
+\contentsline {section}{\numberline {3}Metodologia}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fundamentação teórica}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Estratégia de identificação}{6}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Aplicação - PSM}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Aplicação - DiD}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Resultados}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Pareamento}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Efeito sobre educação}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusões}{11}{section.5}%

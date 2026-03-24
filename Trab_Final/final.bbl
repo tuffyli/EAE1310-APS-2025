@@ -1,0 +1,53 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Agarwal 1997]{agarwal1997bargaining}
+\abntrefinfo{Agarwal}{AGARWAL}{1997}
+{AGARWAL, B. ''bargaining''and gender relations: Within and beyond the
+  household.
+\emph{Feminist economics}, Taylor \& Francis, v.~3, n.~1, p. 1--51, 1997.}
+
+\bibitem[{Brasil} 1968]{brasil_lei5478_1968}
+\abntrefinfo{{Brasil}}{{Brasil}}{1968}
+{{Brasil}. \emph{Lei nº 5.478, de 25 de julho de 1968: Dispõe sobre ação de
+  alimentos e dá outras providências}. 1968.
+  \url{https://www.planalto.gov.br/ccivil_03/leis/l5478.htm}.}
+
+\bibitem[{Brasil} 1994]{brasil_lei8971_1994}
+\abntrefinfo{{Brasil}}{{Brasil}}{1994}
+{{Brasil}. \emph{Lei nº 8.971, de 29 de dezembro de 1994: Regula o direito dos
+  companheiros a alimentos e à sucessão}. 1994.
+  \url{https://www.planalto.gov.br/ccivil_03/leis/L8971.htm}.
+Acesso em: [inserir data de acesso].}
+
+\bibitem[Gadalla 2008]{gadalla2008impact}
+\abntrefinfo{Gadalla}{GADALLA}{2008}
+{GADALLA, T.~M. Impact of marital dissolution on men's and women's incomes: A
+  longitudinal study.
+\emph{Journal of divorce \& remarriage}, Taylor \& Francis, v.~50, n.~1, p.
+  55--65, 2008.}
+
+\bibitem[Rangel 2006]{rangel2006alimony}
+\abntrefinfo{Rangel}{RANGEL}{2006}
+{RANGEL, M.~A. Alimony rights and intrahousehold allocation of resources:
+  evidence from brazil.
+\emph{The Economic Journal}, Oxford University Press Oxford, UK, v.~116,
+  n.~513, p. 627--658, 2006.}
+
+\bibitem[Smock, Manning e Gupta 1999]{smock1999effect}
+\abntrefinfo{Smock, Manning e Gupta}{SMOCK; MANNING; GUPTA}{1999}
+{SMOCK, P.~J.; MANNING, W.~D.; GUPTA, S. The effect of marriage and divorce on
+  women's economic well-being.
+\emph{American Sociological Review}, Sage Publications Sage CA: Los Angeles,
+  CA, v.~64, n.~6, p. 794--812, 1999.}
+
+\bibitem[Wald 1995]{wald1995lei}
+\abntrefinfo{Wald}{WALD}{1995}
+{WALD, A. A lei nº 8.971 e as suas repercussões no direito civil brasileiro.
+\emph{Revista do Ministério Público}, n.~1, p. 28--42, 1995.}
+
+\end{thebibliography}

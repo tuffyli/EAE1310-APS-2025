@@ -1,0 +1,37 @@
+
+\begin{table}[htbp]
+   \caption{\label{tab:dif_principal} Resultados Principais}
+   \centering
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lccc}
+      \tabularnewline \midrule \midrule
+      Dependent Variable: & \multicolumn{3}{c}{Anos de Estudo}\\
+      Model:                          & (1)            & (2)            & (3)\\  
+      \midrule
+      \emph{Variables}\\
+      Tratamento                      & -1.116$^{***}$ & -1.125$^{***}$ & -0.8376$^{***}$\\   
+                                      & (0.0713)       & (0.0691)       & (0.0663)\\   
+      $D$                       & -0.0223        &                &   \\   
+                                      & (0.1096)       &                &   \\   
+      Tratamento $\times$ $D$   & 0.0656         & 0.0614         & -0.0858\\   
+                                      & (0.1256)       & (0.1205)       & (0.1133)\\   
+      Total de Filhos                 &                &                & -0.7272$^{***}$\\   
+                                      &                &                & (0.0268)\\   
+      Cor/Raça                        &                &                & 0.5867$^{***}$\\   
+                                      &                &                & (0.0538)\\   
+      Idade                           &                &                & 0.2687$^{***}$\\   
+                                      &                &                & (0.0108)\\   
+      \midrule
+      \emph{Fixed-effects}\\
+      UF$	\times$Ano                   &                & Yes            & Yes\\  
+      \midrule
+      \emph{Fit statistics}\\
+      Observations                    & 14,621         & 14,621         & 14,621\\  
+      R$^2$                           & 0.03672        & 0.08445        & 0.17791\\  
+      Within R$^2$                    &                & 0.03913        & 0.13722\\  
+      \midrule \midrule
+      \multicolumn{4}{l}{\emph{Heteroskedasticity-robust standard-errors in parentheses}}\\
+      \multicolumn{4}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+   \end{tabular*}
+\end{table}
+
+
